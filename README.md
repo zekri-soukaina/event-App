@@ -39,7 +39,7 @@ This project is an event management application built with React, utilizing Vite
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/zekri-soukaina/event-App.git
 ```
 
 Install dependencies:
